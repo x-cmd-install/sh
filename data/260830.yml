@@ -1,0 +1,58 @@
+about:
+  description: A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
+  license: BSD-3-Clause
+  homepage: https://pkg.go.dev/mvdan.cc/sh/v3
+  head: 868c8e8
+  archived: false
+  latestVersion: v3.14.0
+  collectedAt: 2026-08-30T05:58:01Z
+timeline:
+  created: 2016-01-16
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-28
+popularity:
+  star: 9027
+  watcher: 57
+  fork: 447
+  release: 54
+  contributor: 98
+  pullRequest: 94
+  issue: 978
+language:
+  Go: 981045
+  Shell: 873
+  Dockerfile: 393
+totalLine: 982311
+recent:
+  last30d:
+    since: 2026-07-31
+    release: 1
+    mergedPR: 3
+    openPR: 4
+    closedIssue: 18
+    openIssue: 4
+    commit: 73
+  last90d:
+    since: 2026-06-01
+    release: 1
+    mergedPR: 7
+    openPR: 4
+    closedIssue: 25
+    openIssue: 5
+    commit: 155
+  last180d:
+    since: 2026-03-03
+    release: 3
+    mergedPR: 13
+    openPR: 4
+    closedIssue: 58
+    openIssue: 13
+    commit: 211
+  last360d:
+    since: 2025-09-04
+    release: 3
+    mergedPR: 26
+    openPR: 4
+    closedIssue: 120
+    openIssue: 19
+    commit: 441
