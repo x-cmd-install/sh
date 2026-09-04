@@ -7,7 +7,7 @@ about:
   head: b947990
   archived: false
   latestVersion: v3.14.0
-  collectedAt: 2026-09-04T20:05:48Z
+  collectedAt: 2026-09-04T20:37:02Z
 timeline:
   created: 2016-01-16
   lastCommit: 2026-09-03
@@ -83,7 +83,7 @@ total:
   commit: 4306
 ---
 path: /home/runner/.x-repo/github.com/mvdan/sh
-collectedAt: 2026-09-04T20:05:50Z
+collectedAt: 2026-09-04T20:37:03Z
 loc:
   Go:
     code: 31654
