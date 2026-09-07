@@ -5,7 +5,7 @@ about:
   head: f17a189
   archived: false
   latestVersion: "v3.14.1"
-  collectedAt: 2026-09-07T04:59:02Z
+  collectedAt: 2026-09-07T19:24:04Z
 timeline:
   created: 2016-01-16
   lastCommit: 2026-09-06
@@ -16,7 +16,7 @@ popularity:
   fork: 451
   release: 55
   contributor: 102
-  pullRequest: 400
+  pullRequest: 402
   issue: 978
 language:
   Go: 1025390
@@ -81,7 +81,7 @@ total:
   commit: 4324
 ---
 path: /home/runner/.x-repo/github.com/mvdan/sh
-collectedAt: 2026-09-07T04:59:05Z
+collectedAt: 2026-09-07T19:24:06Z
 loc:
   Go:
     code: 32070
@@ -230,7 +230,7 @@ checks:
       - 'Info: Project packages its releases by way of GitHub Actions.: .github/workflows/test.yml:54'
 ---
 eget:
-  collectedAt: 2026-09-07T04:59:08+00:00
+  collectedAt: 2026-09-07T19:24:06+00:00
   platform:
     darwin/arm64:
       name:  shfmt_v3.14.1_darwin_arm64
