@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.14.1"
   latestRelease: "v3.14.1"
   latestPrerelease: "v3.0.0-beta1"
-  collectedAt: 2026-09-10T05:10:54Z
+  collectedAt: 2026-09-10T20:56:02Z
 timeline:
   created: 2016-01-16
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-06
   lastPrerelease: 2019-11-12
 popularity:
-  star: 9048
+  star: 9049
   watcher: 61
   fork: 450
   release: 55
@@ -85,7 +85,7 @@ total:
   commit: 4332
 ---
 path: /home/runner/.x-repo/github.com/mvdan/sh
-collectedAt: 2026-09-10T05:10:57Z
+collectedAt: 2026-09-10T20:56:04Z
 loc:
   Go:
     code: 32284

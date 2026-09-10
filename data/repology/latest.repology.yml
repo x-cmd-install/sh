@@ -1,0 +1,124 @@
+- repo: gentoo
+  srcname: dev-util/sh
+  visiblename: dev-util/sh
+  version: 3.11.0
+  origversion: null
+  status: newest
+  summary: A shell parser, formatter, and interpreter with bash support
+  maintainers:
+    - sam@gentoo.org
+    - williamh@gentoo.org
+  licenses:
+    - BSD
+    - Apache-2.0
+  categories:
+    - dev-util
+- repo: liguros_stable
+  srcname: dev-util/sh
+  visiblename: dev-util/sh
+  version: 3.11.0
+  origversion: null
+  status: newest
+  summary: A shell parser, formatter, and interpreter with bash support
+  maintainers:
+    - sam@gentoo.org
+    - williamh@gentoo.org
+    - ran.dall@icloud.com
+  licenses:
+    - BSD
+    - Apache-2.0
+  categories:
+    - dev-util
+- repo: liguros_develop
+  srcname: dev-util/sh
+  visiblename: dev-util/sh
+  version: 3.11.0
+  origversion: null
+  status: newest
+  summary: A shell parser, formatter, and interpreter with bash support
+  maintainers:
+    - sam@gentoo.org
+    - williamh@gentoo.org
+    - ran.dall@icloud.com
+  licenses:
+    - BSD
+    - Apache-2.0
+  categories:
+    - dev-util
+- repo: openpkg_current
+  srcname: sh
+  visiblename: sh
+  version: "050706"
+  origversion: null
+  status: untrusted
+  summary: Traditional Bourne-Shell
+  licenses:
+    - BSD/CDDL
+  categories:
+    - Shell
+- repo: stalix
+  srcname: bin/go/sh
+  binname: bin/go/sh
+  visiblename: bin/go/sh
+  version: 3.11.0
+  origversion: null
+  status: newest
+  maintainers:
+    - anton@samokhvalov.xyz
+  categories:
+    - bin
+- repo: stalix
+  srcname: bin/go/sh/posix
+  binname: bin/go/sh/posix
+  visiblename: bin/go/sh/posix
+  version: 3.11.0
+  origversion: null
+  status: newest
+  maintainers:
+    - anton@samokhvalov.xyz
+  categories:
+    - bin
+- repo: stalix
+  srcname: bin/sh/fmt
+  binname: bin/sh/fmt
+  visiblename: bin/sh/fmt
+  version: 3.11.0
+  origversion: null
+  status: newest
+  maintainers:
+    - anton@samokhvalov.xyz
+  categories:
+    - bin
+- repo: stalix_dev
+  srcname: bin/go/sh
+  binname: bin/go/sh
+  visiblename: bin/go/sh
+  version: 3.11.0
+  origversion: null
+  status: newest
+  maintainers:
+    - anton@samokhvalov.xyz
+  categories:
+    - bin
+- repo: stalix_dev
+  srcname: bin/go/sh/posix
+  binname: bin/go/sh/posix
+  visiblename: bin/go/sh/posix
+  version: 3.11.0
+  origversion: null
+  status: newest
+  maintainers:
+    - anton@samokhvalov.xyz
+  categories:
+    - bin
+- repo: stalix_dev
+  srcname: bin/sh/fmt
+  binname: bin/sh/fmt
+  visiblename: bin/sh/fmt
+  version: 3.11.0
+  origversion: null
+  status: newest
+  maintainers:
+    - anton@samokhvalov.xyz
+  categories:
+    - bin
