@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 3578256,
       "digest": "sha256:d33eee0da0f92835b3562e9767a05cee7e4eaeef47daa03bfd09da17b4b590a6",
-      "download_count": 494,
+      "download_count": 516,
       "created_at": "2026-09-06T15:02:17Z",
       "updated_at": "2026-09-06T15:02:17Z",
       "browser_download_url": "https://github.com/mvdan/sh/releases/download/v3.14.1/shfmt_v3.14.1_darwin_amd64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3391698,
       "digest": "sha256:b7c872db63553ccffc7253aba3ed7d4885a27d83f1ba567b1138c6315a5847e5",
-      "download_count": 7237,
+      "download_count": 7578,
       "created_at": "2026-09-06T15:02:16Z",
       "updated_at": "2026-09-06T15:02:17Z",
       "browser_download_url": "https://github.com/mvdan/sh/releases/download/v3.14.1/shfmt_v3.14.1_darwin_arm64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3571872,
       "digest": "sha256:76e77641faa025814b77f153b29796b8e6fa2fca03e0c76a691608b86c7ea7bf",
-      "download_count": 30681,
+      "download_count": 32563,
       "created_at": "2026-09-06T15:02:15Z",
       "updated_at": "2026-09-06T15:02:15Z",
       "browser_download_url": "https://github.com/mvdan/sh/releases/download/v3.14.1/shfmt_v3.14.1_linux_amd64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 3342496,
       "digest": "sha256:5f2db09dae91fca848f7adbdd014632e921a383863a2ad7e0450ad3aba0c6489",
-      "download_count": 2715,
+      "download_count": 2849,
       "created_at": "2026-09-06T15:02:14Z",
       "updated_at": "2026-09-06T15:02:14Z",
       "browser_download_url": "https://github.com/mvdan/sh/releases/download/v3.14.1/shfmt_v3.14.1_linux_arm64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 3588608,
       "digest": "sha256:b6f171113e7359f44d5ffdc93a90b93a7d405aa8847129a6982e10fe4d356f1e",
-      "download_count": 96,
+      "download_count": 97,
       "created_at": "2026-09-06T15:02:13Z",
       "updated_at": "2026-09-06T15:02:14Z",
       "browser_download_url": "https://github.com/mvdan/sh/releases/download/v3.14.1/shfmt_v3.14.1_windows_386.exe"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 3801600,
       "digest": "sha256:13629ce28442ca80b6b5a819f7574ab39e1c28c6e26734ca816c9714e04851df",
-      "download_count": 2624,
+      "download_count": 2811,
       "created_at": "2026-09-06T15:02:11Z",
       "updated_at": "2026-09-06T15:02:13Z",
       "browser_download_url": "https://github.com/mvdan/sh/releases/download/v3.14.1/shfmt_v3.14.1_windows_amd64.exe"
