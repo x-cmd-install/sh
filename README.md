@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,053 · **Forks**: 450 · **Open issues**: 980 · **Contributors**: 102
+- **Stars**: 9,055 · **Forks**: 450 · **Open issues**: 980 · **Contributors**: 102
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 2 | 5 | 3 | 17 | 2 | 92 |
-| last60d | 2026-07-15 | 2 | 10 | 4 | 23 | 3 | 195 |
-| 90d | 2026-06-15 | 2 | 10 | 4 | 24 | 3 | 195 |
-| last180d | 2026-03-17 | 3 | 17 | 4 | 48 | 7 | 236 |
-| 360d | 2025-09-18 | 4 | 30 | 4 | 124 | 16 | 466 |
-| last720d | 2024-09-23 | 7 | 54 | 4 | 174 | 25 | 694 |
+| 30d | 2026-08-15 | 2 | 5 | 3 | 17 | 2 | 86 |
+| last60d | 2026-07-16 | 2 | 9 | 4 | 23 | 3 | 192 |
+| 90d | 2026-06-16 | 2 | 10 | 4 | 24 | 3 | 195 |
+| last180d | 2026-03-18 | 3 | 17 | 4 | 46 | 6 | 228 |
+| 360d | 2025-09-19 | 4 | 30 | 4 | 124 | 16 | 457 |
+| last720d | 2024-09-24 | 7 | 54 | 4 | 174 | 25 | 694 |
 
 ## Release assets
 
@@ -78,10 +78,6 @@ Lowest-scoring checks:
 | [shfmt_v3.14.1_windows_386.exe](https://github.com/mvdan/sh/releases/download/v3.14.1/shfmt_v3.14.1_windows_386.exe) | 3.4 MiB | `native/win/x64` |
 | [shfmt_v3.14.1_windows_amd64.exe](https://github.com/mvdan/sh/releases/download/v3.14.1/shfmt_v3.14.1_windows_amd64.exe) | 3.6 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **10** distros on [repology.org](https://repology.org/project/sh). **9** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
-
 ## Improve this data
 
 Install metadata for sh lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `sh` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -91,4 +87,4 @@ Install metadata for sh lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:12:52Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:27:07Z._
