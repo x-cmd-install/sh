@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 3578256,
       "digest": "sha256:d33eee0da0f92835b3562e9767a05cee7e4eaeef47daa03bfd09da17b4b590a6",
-      "download_count": 1655,
+      "download_count": 1757,
       "created_at": "2026-09-06T15:02:17Z",
       "updated_at": "2026-09-06T15:02:17Z",
       "browser_download_url": "https://github.com/mvdan/sh/releases/download/v3.14.1/shfmt_v3.14.1_darwin_amd64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3391698,
       "digest": "sha256:b7c872db63553ccffc7253aba3ed7d4885a27d83f1ba567b1138c6315a5847e5",
-      "download_count": 21642,
+      "download_count": 23217,
       "created_at": "2026-09-06T15:02:16Z",
       "updated_at": "2026-09-06T15:02:17Z",
       "browser_download_url": "https://github.com/mvdan/sh/releases/download/v3.14.1/shfmt_v3.14.1_darwin_arm64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3362976,
       "digest": "sha256:aad6f0bd6285910c152091ba58b5509aa88eb8a2a81a2d72cf2048a8a78c27f4",
-      "download_count": 106,
+      "download_count": 124,
       "created_at": "2026-09-06T15:02:15Z",
       "updated_at": "2026-09-06T15:02:16Z",
       "browser_download_url": "https://github.com/mvdan/sh/releases/download/v3.14.1/shfmt_v3.14.1_linux_386"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3571872,
       "digest": "sha256:76e77641faa025814b77f153b29796b8e6fa2fca03e0c76a691608b86c7ea7bf",
-      "download_count": 125248,
+      "download_count": 137333,
       "created_at": "2026-09-06T15:02:15Z",
       "updated_at": "2026-09-06T15:02:15Z",
       "browser_download_url": "https://github.com/mvdan/sh/releases/download/v3.14.1/shfmt_v3.14.1_linux_amd64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3539104,
       "digest": "sha256:ede6c4adefeda196d963906daa7c1f20094e6def7a98bcb9f4c74079babf1eca",
-      "download_count": 133,
+      "download_count": 152,
       "created_at": "2026-09-06T15:02:14Z",
       "updated_at": "2026-09-06T15:02:15Z",
       "browser_download_url": "https://github.com/mvdan/sh/releases/download/v3.14.1/shfmt_v3.14.1_linux_arm"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 3342496,
       "digest": "sha256:5f2db09dae91fca848f7adbdd014632e921a383863a2ad7e0450ad3aba0c6489",
-      "download_count": 10826,
+      "download_count": 12156,
       "created_at": "2026-09-06T15:02:14Z",
       "updated_at": "2026-09-06T15:02:14Z",
       "browser_download_url": "https://github.com/mvdan/sh/releases/download/v3.14.1/shfmt_v3.14.1_linux_arm64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 3588608,
       "digest": "sha256:b6f171113e7359f44d5ffdc93a90b93a7d405aa8847129a6982e10fe4d356f1e",
-      "download_count": 217,
+      "download_count": 233,
       "created_at": "2026-09-06T15:02:13Z",
       "updated_at": "2026-09-06T15:02:14Z",
       "browser_download_url": "https://github.com/mvdan/sh/releases/download/v3.14.1/shfmt_v3.14.1_windows_386.exe"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 3801600,
       "digest": "sha256:13629ce28442ca80b6b5a819f7574ab39e1c28c6e26734ca816c9714e04851df",
-      "download_count": 9606,
+      "download_count": 10268,
       "created_at": "2026-09-06T15:02:11Z",
       "updated_at": "2026-09-06T15:02:13Z",
       "browser_download_url": "https://github.com/mvdan/sh/releases/download/v3.14.1/shfmt_v3.14.1_windows_amd64.exe"
@@ -330,8 +330,8 @@
   "body": "- **syntax**\r\n  - Fix the indentation of heredocs nested inside command substitutions - #1403\r\n  - Keep literal tabs in `<<-` heredoc bodies rather than replacing them with spaces\r\n  - Don't indent heredocs without dashes nested in `<<-` ones, whose output no longer parsed\r\n  - Zsh: don't drop the prefix in short forms like `$#\"$foo\"` and `$+\"$foo\"` - #1405\r\n- **interp**\r\n  - Fix the build on 32-bit FreeBSD and NetBSD\r\n- **expand**\r\n  - Don't let escaped characters such as `\\*` act as glob metacharacters\r\n- **pattern**\r\n  - Treat unclosed extended operator groups like `@(a` as literals, avoiding a panic\r\n\r\nConsider [becoming a sponsor](https://github.com/sponsors/mvdan) if you benefit from the work that went into this release!\r\n\r\nBinaries built on `go version go1.27.1 linux/amd64` with:\r\n\r\n\tCGO_ENABLED=0 go build -trimpath -ldflags=\"-w -s\"",
   "reactions": {
     "url": "https://api.github.com/repos/mvdan/sh/releases/383624083/reactions",
-    "total_count": 5,
-    "+1": 3,
+    "total_count": 6,
+    "+1": 4,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
