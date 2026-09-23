@@ -4,7 +4,7 @@
 
 A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
 
-[![x-cmd/install — sh Code Quality Monitoring Repo Card](https://repo.x-cmd.io/sh.svg)](https://x-cmd.com/install/sh)
+[![x-cmd/install — sh Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/sh.svg)](https://x-cmd.com/install/sh)
 
 ## Install
 
@@ -18,7 +18,7 @@ Total: **36,245** lines of code across **95** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 32,284 | 7,169 | 1,948 | 86 |
+| Go | 32,284 | 7,173 | 1,948 | 86 |
 | Json | 3,891 | 0 | 0 | 1 |
 | Sh | 57 | 13 | 19 | 3 |
 | Dockerfile | 13 | 0 | 3 | 1 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.14.1` (2026-09-06)
-- **Last commit**: 2026-09-09
+- **Last commit**: 2026-09-22
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 9,072 · **Forks**: 451 · **Open issues**: 980 · **Contributors**: 102
+- **Stars**: 9,078 · **Forks**: 452 · **Open issues**: 980 · **Contributors**: 102
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 299 · **Open PRs**: 4 · **Closed issues**: 891 · **Open issues**: 89 · **Commits**: 4332
+- **Releases**: 55 · **Merged PRs**: 299 · **Open PRs**: 4 · **Closed issues**: 891 · **Open issues**: 89 · **Commits**: 4333
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 4 | 3 | 4 | 1 | 45 |
-| last60d | 2026-07-24 | 2 | 7 | 4 | 23 | 2 | 117 |
-| 90d | 2026-06-24 | 2 | 10 | 4 | 24 | 3 | 195 |
-| last180d | 2026-03-26 | 3 | 16 | 4 | 43 | 6 | 224 |
-| 360d | 2025-09-27 | 4 | 30 | 4 | 124 | 16 | 447 |
-| last720d | 2024-10-02 | 7 | 54 | 4 | 172 | 25 | 684 |
+| 30d | 2026-08-24 | 2 | 4 | 3 | 4 | 0 | 46 |
+| last60d | 2026-07-25 | 2 | 7 | 4 | 23 | 2 | 118 |
+| 90d | 2026-06-25 | 2 | 10 | 4 | 24 | 3 | 196 |
+| last180d | 2026-03-27 | 3 | 16 | 4 | 42 | 6 | 225 |
+| 360d | 2025-09-28 | 4 | 30 | 4 | 124 | 16 | 448 |
+| last720d | 2024-10-03 | 7 | 54 | 4 | 172 | 25 | 685 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for sh lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:21:01Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:18:00Z._
