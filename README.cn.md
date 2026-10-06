@@ -30,9 +30,9 @@ x install sh
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 1/30 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **SAST** (0/10) — no SAST tool detected
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
 
@@ -48,7 +48,7 @@ x install sh
 
 ## 流行度
 
-- **Star**: 9,106 · **Fork**: 455 · **开放 issue**: 984 · **贡献者**: 104
+- **Star**: 9,109 · **Fork**: 455 · **开放 issue**: 984 · **贡献者**: 104
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install sh
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 1 | 1 | 1 | 5 | 1 | 66 |
-| last60d | 2026-08-06 | 2 | 8 | 4 | 24 | 3 | 160 |
-| 90d | 2026-07-07 | 2 | 11 | 4 | 26 | 4 | 261 |
-| last180d | 2026-04-08 | 2 | 13 | 4 | 39 | 7 | 280 |
-| 360d | 2025-10-10 | 4 | 31 | 4 | 123 | 16 | 470 |
-| last720d | 2024-10-15 | 7 | 55 | 4 | 173 | 26 | 748 |
+| 30d | 2026-09-06 | 1 | 1 | 0 | 5 | 1 | 66 |
+| last60d | 2026-08-07 | 2 | 8 | 4 | 24 | 3 | 160 |
+| 90d | 2026-07-08 | 2 | 11 | 4 | 26 | 4 | 261 |
+| last180d | 2026-04-09 | 2 | 13 | 4 | 39 | 7 | 280 |
+| 360d | 2025-10-11 | 4 | 31 | 4 | 123 | 16 | 470 |
+| last720d | 2024-10-16 | 7 | 55 | 4 | 173 | 26 | 748 |
 
 ## Release 资产
 
@@ -87,4 +87,4 @@ sh 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261005.yml` · 2026-10-05T05:59:35Z._
+_数据快照: `data/card/261006.yml` · 2026-10-06T06:41:05Z._
