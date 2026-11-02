@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,169 · **Forks**: 463 · **Open issues**: 996 · **Contributors**: 105
+- **Stars**: 9,172 · **Forks**: 463 · **Open issues**: 996 · **Contributors**: 105
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 1 | 0 | 7 | 5 | 54 |
-| last60d | 2026-09-02 | 1 | 3 | 2 | 13 | 5 | 174 |
-| 90d | 2026-08-03 | 2 | 9 | 2 | 33 | 7 | 255 |
-| last180d | 2026-05-05 | 2 | 13 | 2 | 44 | 8 | 346 |
-| 360d | 2025-11-06 | 4 | 31 | 2 | 123 | 12 | 509 |
-| last720d | 2024-11-11 | 6 | 55 | 2 | 182 | 24 | 818 |
+| 30d | 2026-10-03 | 0 | 1 | 0 | 7 | 5 | 43 |
+| last60d | 2026-09-03 | 1 | 2 | 0 | 13 | 5 | 148 |
+| 90d | 2026-08-04 | 2 | 9 | 2 | 33 | 7 | 254 |
+| last180d | 2026-05-06 | 2 | 13 | 2 | 44 | 8 | 346 |
+| 360d | 2025-11-07 | 4 | 31 | 2 | 123 | 12 | 503 |
+| last720d | 2024-11-12 | 6 | 55 | 2 | 182 | 24 | 818 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for sh lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:24:24Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:25:12Z._
