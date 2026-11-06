@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,177 · **Forks**: 464 · **Open issues**: 998 · **Contributors**: 105
+- **Stars**: 9,181 · **Forks**: 465 · **Open issues**: 1,001 · **Contributors**: 105
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 301 · **Open PRs**: 2 · **Closed issues**: 929 · **Open issues**: 69 · **Commits**: 4511
+- **Releases**: 55 · **Merged PRs**: 301 · **Open PRs**: 2 · **Closed issues**: 929 · **Open issues**: 72 · **Commits**: 4511
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 0 | 1 | 0 | 12 | 2 | 75 |
-| last60d | 2026-09-06 | 1 | 2 | 0 | 18 | 2 | 180 |
-| 90d | 2026-08-07 | 2 | 9 | 2 | 37 | 4 | 286 |
-| last180d | 2026-05-09 | 2 | 13 | 2 | 49 | 5 | 378 |
-| 360d | 2025-11-10 | 4 | 31 | 2 | 125 | 9 | 535 |
-| last720d | 2024-11-15 | 6 | 55 | 2 | 187 | 21 | 850 |
+| 30d | 2026-10-07 | 0 | 1 | 0 | 12 | 5 | 75 |
+| last60d | 2026-09-07 | 0 | 2 | 0 | 18 | 5 | 180 |
+| 90d | 2026-08-08 | 2 | 9 | 2 | 37 | 7 | 286 |
+| last180d | 2026-05-10 | 2 | 13 | 2 | 48 | 8 | 378 |
+| 360d | 2025-11-11 | 4 | 31 | 2 | 125 | 12 | 535 |
+| last720d | 2024-11-16 | 6 | 55 | 2 | 187 | 24 | 850 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for sh lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T07:00:45Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T07:02:48Z._
