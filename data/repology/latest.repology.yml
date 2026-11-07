@@ -44,17 +44,6 @@
     - Apache-2.0
   categories:
     - dev-util
-- repo: openpkg_current
-  srcname: sh
-  visiblename: sh
-  version: "050706"
-  origversion: null
-  status: untrusted
-  summary: Traditional Bourne-Shell
-  licenses:
-    - BSD/CDDL
-  categories:
-    - Shell
 - repo: stalix
   srcname: bin/go/sh
   binname: bin/go/sh
