@@ -14,15 +14,15 @@ x install sh
 
 ## Code insight
 
-Total: **40,834** lines of code across **104** files in the top 5 languages.
+Total: **41,137** lines of code across **104** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 36,873 | 8,995 | 2,227 | 95 |
+| Go | 37,176 | 9,255 | 2,232 | 95 |
 | Json | 3,891 | 0 | 0 | 1 |
 | Sh | 57 | 13 | 19 | 3 |
 | Dockerfile | 13 | 0 | 3 | 1 |
-| Markdown | 0 | 1,631 | 264 | 4 |
+| Markdown | 0 | 1,643 | 265 | 4 |
 
 ## OpenSSF Scorecard
 
@@ -30,9 +30,9 @@ Overall score: **4.7 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 1/30 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **SAST** (0/10) — no SAST tool detected
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.14.1` (2026-09-06)
-- **Last commit**: 2026-11-08
+- **Last commit**: 2026-11-09
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 9,187 · **Forks**: 464 · **Open issues**: 1,001 · **Contributors**: 105
+- **Stars**: 9,188 · **Forks**: 465 · **Open issues**: 1,001 · **Contributors**: 105
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 301 · **Open PRs**: 1 · **Closed issues**: 932 · **Open issues**: 69 · **Commits**: 4522
+- **Releases**: 55 · **Merged PRs**: 301 · **Open PRs**: 1 · **Closed issues**: 935 · **Open issues**: 66 · **Commits**: 4531
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 1 | 0 | 15 | 2 | 81 |
-| last60d | 2026-09-10 | 0 | 2 | 0 | 20 | 2 | 190 |
-| 90d | 2026-08-11 | 2 | 8 | 1 | 36 | 4 | 282 |
-| last180d | 2026-05-13 | 2 | 13 | 1 | 51 | 5 | 389 |
-| 360d | 2025-11-14 | 4 | 31 | 1 | 127 | 9 | 546 |
-| last720d | 2024-11-19 | 6 | 55 | 1 | 190 | 21 | 860 |
+| 30d | 2026-10-11 | 0 | 1 | 0 | 15 | 2 | 90 |
+| last60d | 2026-09-11 | 0 | 2 | 0 | 20 | 2 | 199 |
+| 90d | 2026-08-12 | 2 | 8 | 1 | 36 | 4 | 291 |
+| last180d | 2026-05-14 | 2 | 13 | 1 | 51 | 5 | 398 |
+| 360d | 2025-11-15 | 4 | 31 | 1 | 128 | 8 | 555 |
+| last720d | 2024-11-20 | 6 | 55 | 1 | 192 | 19 | 867 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for sh lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T06:51:03Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:38:12Z._

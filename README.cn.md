@@ -14,15 +14,15 @@ x install sh
 
 ## 代码洞察
 
-合计: **40,834** 行代码（覆盖前 5 种语言、共 **104** 个文件）。
+合计: **41,137** 行代码（覆盖前 5 种语言、共 **104** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 36,873 | 8,995 | 2,227 | 95 |
+| Go | 37,176 | 9,255 | 2,232 | 95 |
 | Json | 3,891 | 0 | 0 | 1 |
 | Sh | 57 | 13 | 19 | 3 |
 | Dockerfile | 13 | 0 | 3 | 1 |
-| Markdown | 0 | 1,631 | 264 | 4 |
+| Markdown | 0 | 1,643 | 265 | 4 |
 
 ## OpenSSF Scorecard 评分
 
@@ -30,9 +30,9 @@ x install sh
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 1/30 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **SAST** (0/10) — no SAST tool detected
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install sh
 ## 发布
 
 - **最新版本**: `v3.14.1` (2026-09-06)
-- **最近提交**: 2026-11-08
+- **最近提交**: 2026-11-09
 - **Release 含资产**: 8 个
 
 ## 流行度
 
-- **Star**: 9,187 · **Fork**: 464 · **开放 issue**: 1,001 · **贡献者**: 105
+- **Star**: 9,188 · **Fork**: 465 · **开放 issue**: 1,001 · **贡献者**: 105
 
 ## 累计统计
 
-- **发布数**: 55 · **已合并 PR**: 301 · **开放 PR**: 1 · **已关闭 issue**: 932 · **开放 issue**: 69 · **提交数**: 4522
+- **发布数**: 55 · **已合并 PR**: 301 · **开放 PR**: 1 · **已关闭 issue**: 935 · **开放 issue**: 66 · **提交数**: 4531
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 1 | 0 | 15 | 2 | 81 |
-| last60d | 2026-09-10 | 0 | 2 | 0 | 20 | 2 | 190 |
-| 90d | 2026-08-11 | 2 | 8 | 1 | 36 | 4 | 282 |
-| last180d | 2026-05-13 | 2 | 13 | 1 | 51 | 5 | 389 |
-| 360d | 2025-11-14 | 4 | 31 | 1 | 127 | 9 | 546 |
-| last720d | 2024-11-19 | 6 | 55 | 1 | 190 | 21 | 860 |
+| 30d | 2026-10-11 | 0 | 1 | 0 | 15 | 2 | 90 |
+| last60d | 2026-09-11 | 0 | 2 | 0 | 20 | 2 | 199 |
+| 90d | 2026-08-12 | 2 | 8 | 1 | 36 | 4 | 291 |
+| last180d | 2026-05-14 | 2 | 13 | 1 | 51 | 5 | 398 |
+| 360d | 2025-11-15 | 4 | 31 | 1 | 128 | 8 | 555 |
+| last720d | 2024-11-20 | 6 | 55 | 1 | 192 | 19 | 867 |
 
 ## Release 资产
 
@@ -91,4 +91,4 @@ sh 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261109.yml` · 2026-11-09T06:51:04Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T07:38:13Z._
