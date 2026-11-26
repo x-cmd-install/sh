@@ -14,15 +14,15 @@ x install sh
 
 ## Code insight
 
-Total: **46,081** lines of code across **106** files in the top 5 languages.
+Total: **46,138** lines of code across **106** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 39,810 | 9,649 | 2,310 | 96 |
+| Go | 39,867 | 9,671 | 2,314 | 96 |
 | Json | 6,200 | 0 | 0 | 2 |
 | Sh | 58 | 13 | 19 | 3 |
 | Dockerfile | 13 | 0 | 3 | 1 |
-| Markdown | 0 | 1,676 | 271 | 4 |
+| Markdown | 0 | 1,735 | 275 | 4 |
 
 ## OpenSSF Scorecard
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.14.1` (2026-09-06)
-- **Last commit**: 2026-11-18
+- **Last commit**: 2026-11-25
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 9,223 · **Forks**: 463 · **Open issues**: 1,004 · **Contributors**: 105
+- **Stars**: 9,226 · **Forks**: 464 · **Open issues**: 1,004 · **Contributors**: 105
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 301 · **Open PRs**: 1 · **Closed issues**: 956 · **Open issues**: 48 · **Commits**: 4620
+- **Releases**: 55 · **Merged PRs**: 302 · **Open PRs**: 1 · **Closed issues**: 956 · **Open issues**: 48 · **Commits**: 4622
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 0 | 0 | 11 | 0 | 141 |
-| last60d | 2026-09-26 | 0 | 2 | 0 | 22 | 0 | 195 |
-| 90d | 2026-08-27 | 2 | 6 | 1 | 27 | 0 | 330 |
-| last180d | 2026-05-29 | 2 | 13 | 1 | 56 | 1 | 487 |
-| 360d | 2025-11-30 | 4 | 30 | 1 | 131 | 3 | 636 |
-| last720d | 2024-12-05 | 6 | 51 | 1 | 206 | 7 | 953 |
+| 30d | 2026-10-27 | 0 | 1 | 0 | 11 | 0 | 143 |
+| last60d | 2026-09-27 | 0 | 3 | 0 | 22 | 0 | 197 |
+| 90d | 2026-08-28 | 2 | 7 | 1 | 27 | 0 | 332 |
+| last180d | 2026-05-30 | 2 | 14 | 1 | 56 | 1 | 489 |
+| 360d | 2025-12-01 | 4 | 31 | 1 | 129 | 3 | 638 |
+| last720d | 2024-12-06 | 6 | 52 | 1 | 206 | 7 | 955 |
 
 ## Release assets
 
@@ -78,10 +78,6 @@ Lowest-scoring checks:
 | [shfmt_v3.14.1_windows_386.exe](https://github.com/mvdan/sh/releases/download/v3.14.1/shfmt_v3.14.1_windows_386.exe) | 3.4 MiB | `native/win/x64` |
 | [shfmt_v3.14.1_windows_amd64.exe](https://github.com/mvdan/sh/releases/download/v3.14.1/shfmt_v3.14.1_windows_amd64.exe) | 3.6 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **9** distros on [repology.org](https://repology.org/project/sh). **9** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
-
 ## Improve this data
 
 Install metadata for sh lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `sh` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -91,4 +87,4 @@ Install metadata for sh lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:54:21Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T09:39:01Z._
